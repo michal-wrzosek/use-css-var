@@ -1,3 +1,3 @@
-import { TestComponent } from './components/TestComponent/TestComponent';
+import { useCssVar } from './use-css-var';
 
-export { TestComponent };
+export { useCssVar };

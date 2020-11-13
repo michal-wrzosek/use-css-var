@@ -43,7 +43,7 @@ const Example = () => {
 ## Example + Demo
 
 Check out another example with lots of state changes in example app:
-https://github.com/michal-wrzosek/react-component-lib/blob/master/example/src/App.tsx
+https://github.com/michal-wrzosek/use-css-var/blob/master/example/src/App.tsx
 
 Live demo:
 https://michal-wrzosek.github.io/use-css-var/
